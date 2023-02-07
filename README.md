@@ -11,7 +11,6 @@ decide if you want to score or keep rolling. You can freeze any dice you want, a
 When you fill the 13 scoring categories, bonus points will be added according to the Joker Rules of Yahtzee. Your final score will be displayed on the screen, and if it's a new high score, it will be saved for the record.
 
 ## Instructions:
--------------------------------------------
 To run our program, the user first needs to open the main.cpp file using an IDE (CLion, Visual Studio, etc) and then compile it alongside all the other cpps included in the folder, 
 making sure that the SFML libraries are included as arguments for the linker to use (I.E. SFML_Template, sfml-graphics, sfml-system, sfml-window, sfml-main). 
 This will generate a main.exe file that the program may or may not automatically run after the building process. 
