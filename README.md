@@ -13,6 +13,6 @@ When you fill the 13 scoring categories, bonus points will be added according to
 ## Instructions:
 To run our program, the user first needs to open the main.cpp file using an IDE (CLion, Visual Studio, etc) and then compile it alongside all the other cpps included in the folder, 
 making sure that the SFML libraries are included as arguments for the linker to use (I.E. SFML_Template, sfml-graphics, sfml-system, sfml-window, sfml-main). 
-This will generate a main.exe file that the program may or may not automatically run after the building process. 
+This will generate a main.exe file that the program may automatically run after the building process. 
 After running the program, a window will open and the game will display on the screen. 
 The user can start a new game of Yahtzee by pressing R as instructed. 
